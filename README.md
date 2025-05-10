@@ -1,27 +1,39 @@
 # FakeNewsFrontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
+This reporitory will include the code of the fake news prediction app frontend. This will give different UIs that summarize the work we've done in Python code.
 
-## Development server
+## Features:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Those interfaces will let the user be able to:
+- Check different fake news examples
+- Introduce a new fake news data
+- Check stats about the fake news
+- Make some updates to some news.
 
-## Code scaffolding
+## Technologies:
+Angular: The front-end framework used to build the portfolio.
+HTML5: For structuring content.
+CSS3: For styling and layout.
+TypeScript: For adding static types to the JavaScript code.
+Bootstrap: For responsive and modern UI components.
+Node.js: For running the development server.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<div align="left">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/intellijidea/000000" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
+  <img width="12" />
+</div>
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
