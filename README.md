@@ -11,12 +11,13 @@ Those interfaces will let the user be able to:
 - Make some updates to some news.
 
 ## Technologies:
-Angular: The front-end framework used to build the portfolio.
-HTML5: For structuring content.
-CSS3: For styling and layout.
-TypeScript: For adding static types to the JavaScript code.
-Bootstrap: For responsive and modern UI components.
-Node.js: For running the development server.
+
+- Angular: The front-end framework used to build the portfolio.
+- HTML5: For structuring content.
+- CSS3: For styling and layout.
+- TypeScript: For adding static types to the JavaScript code.
+- Bootstrap: For responsive and modern UI components.
+- Node.js: For running the development server.
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
