@@ -19,7 +19,7 @@ Those interfaces will let the user be able to:
 - Bootstrap: For responsive and modern UI components.
 - Node.js: For running the development server.
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
