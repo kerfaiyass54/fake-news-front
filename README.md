@@ -1,4 +1,4 @@
-# FakeNewsFrontend
+# Fake News Frontend
 
 This reporitory will include the code of the fake news prediction app frontend. This will give different UIs that summarize the work we've done in Python code.
 
