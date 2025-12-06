@@ -1,7 +1,7 @@
-# fake-news-front
+# Fake news application - Frontend part
 
 ## 🚀 Overview
-The `fake-news-front` repository is a cutting-edge Angular application designed to combat the spread of fake news. This project provides a user-friendly interface to check, introduce, and analyze fake news data. It leverages modern web technologies to deliver a seamless and interactive experience.
+This repository is a cutting-edge Angular application designed to combat the spread of fake news. This project provides a user-friendly interface to check, introduce, and analyze fake news data. It leverages modern web technologies to deliver a seamless and interactive experience.
 
 ### Key Features and Benefits
 - **User-Friendly Interface**: Easy navigation and intuitive design.
@@ -52,54 +52,6 @@ npm start
 - **Docker**: Use the provided Dockerfile to set up the application in a container.
 - **Development Setup**: Follow the [Angular CLI documentation](https://angular.io/cli) for more detailed setup instructions.
 
-## 🎯 Usage
-
-### Basic Usage
-```typescript
-// Import the necessary modules
-import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
-
-// Define the main component
-@Component({
-  selector: 'app-root',
-  standalone: true,
-  imports: [RouterOutlet],
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
-})
-export class AppComponent {
-  title = 'fake-news-frontend';
-}
-```
-
-### Advanced Usage
-- **Customizing Styles**: Modify the `src/app/app.component.css` file to change the application's appearance.
-- **Adding New Routes**: Define new routes in the `src/app/app.routes.ts` file to add new pages to the application.
-
-## 📁 Project Structure
-```
-fake-news-front/
-├── src/
-│   ├── app/
-│   │   ├── app.component.css
-│   │   ├── app.component.html
-│   │   ├── app.component.ts
-│   │   ├── app.config.ts
-│   │   ├── app.routes.ts
-│   │   └── ...
-│   ├── index.html
-│   ├── main.ts
-│   └── styles.css
-├── angular.json
-├── package.json
-├── tsconfig.app.json
-├── tsconfig.json
-├── tsconfig.spec.json
-├── .editorconfig
-├── .gitignore
-└── README.md
-```
 
 ## 🔧 Configuration
 - **Environment Variables**: Set environment-specific variables in the `.env` file.
@@ -111,24 +63,6 @@ fake-news-front/
 - **Code Style Guidelines**: Follow the [Angular Style Guide](https://angular.io/guide/styleguide) for consistent code formatting.
 - **Pull Request Process**: Ensure your pull request includes tests and documentation updates.
 
-## 📝 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors & Contributors
-- **Maintainers**: [Your Name]
-- **Contributors**: [List of contributors]
-
-## 🐛 Issues & Support
-- **Report Issues**: Create a new issue on the [GitHub Issues page](https://github.com/yourusername/fake-news-front/issues).
-- **Get Help**: Join the [Discussion Forum](https://github.com/yourusername/fake-news-front/discussions) for community support.
-- **FAQ**: Check the [FAQ](FAQ.md) for common questions and answers.
-
-## 🗺️ Roadmap
-- **Planned Features**: Add support for user authentication and data export functionality.
-- **Known Issues**: Address performance issues with large datasets.
-- **Future Improvements**: Enhance the data visualization capabilities and add support for multiple languages.
-
----
 
 **Additional Guidelines:**
 - Use modern markdown features (badges, collapsible sections, etc.)
